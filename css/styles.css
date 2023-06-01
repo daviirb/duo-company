@@ -460,8 +460,8 @@ a:hover {
 /*     Header     */
 /******************/
 .header {
-	padding-top: 8rem;
-	padding-bottom: 9rem;
+	padding-top: 5rem;
+	padding-bottom: 0rem;
 	background-color: #fea24c;
 	text-align: center;
 }

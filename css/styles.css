@@ -338,7 +338,7 @@ a:hover {
 /*     Navigation     */
 /**********************/
 .navbar {
-	background-color: #fff2dc;
+	background-color: #fea24c;
 	font-weight: 600;
 	font-size: 0.875rem;
 	line-height: 0.875rem;
@@ -350,8 +350,8 @@ a:hover {
 }
 
 .navbar .logo-image img {
-    width: 132px;
-	height: 30px;
+    width: 140px;
+	height: 50px;
 }
 
 .navbar .logo-text {
@@ -462,7 +462,7 @@ a:hover {
 .header {
 	padding-top: 8rem;
 	padding-bottom: 9rem;
-	background-color: #fff2dc;
+	background-color: #fea24c;
 	text-align: center;
 }
 
@@ -476,7 +476,7 @@ a:hover {
 }
 
 .header .replace-me span {
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 .header .p-large {

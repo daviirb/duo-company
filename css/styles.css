@@ -40,7 +40,7 @@ html {
 }
 
 body, p {
-	color: #565578; 
+	color: #272556; 
 	font: 400 1rem/1.625rem "Open Sans", sans-serif;
 }
 
@@ -471,8 +471,8 @@ a:hover {
 }
 
 .header .replace-me {
-	color: #f25c05;
-	font-size: 2rem;
+	color: #ffffff;
+	font-size: 3rem;
 }
 
 .header .replace-me span {
@@ -497,7 +497,7 @@ a:hover {
 /*     Features     */
 /********************/
 .cards-1 {
-	padding-top: 9rem;
+	padding-top: 3rem;
 	padding-bottom: 1.25em;
 	text-align: center;
 }
@@ -575,6 +575,7 @@ a:hover {
 
 .basic-1 .text-container {
 	margin-bottom: 3rem;
+	text-align: center;
 }
 
 .basic-1 h2 {
@@ -1169,7 +1170,7 @@ a:hover {
 	.navbar.top-nav-collapse {
 		padding-top: 0.5rem;
 		padding-bottom: 0.5rem;
-		background-color: #fff2dc;
+		background-color: #fea24c;
 	}
 
 	.offcanvas-collapse {

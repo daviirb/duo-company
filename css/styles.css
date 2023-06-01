@@ -569,12 +569,12 @@ a:hover {
 /*     Details 1     */
 /*********************/
 .basic-1 {
-	padding-top: 9.5rem;
-	padding-bottom: 10rem;
+	padding-top: 2.5rem;
+	padding-bottom: 3rem;
 }
 
 .basic-1 .text-container {
-	margin-bottom: 4rem;
+	margin-bottom: 3rem;
 }
 
 .basic-1 h2 {
@@ -1107,6 +1107,15 @@ a:hover {
 	}
 	/* end of header */
 
+	/* Details 1 */
+	.basic-1{
+		padding-top: 2rem;
+		padding-bottom: 2rem;
+	}
+	.basic-1 .text-container {
+		margin-bottom: 0;
+	}
+	/* end of details 1 */
 
 	/* Extra Pages */
 	.ex-basic-1 .text-box {
@@ -1241,6 +1250,10 @@ a:hover {
 
 
 	/* Details 1 */
+	.basic-1{
+		padding-top: 4rem;
+		padding-bottom: 2rem;
+	}
 	.basic-1 .text-container {
 		margin-bottom: 0;
 	}

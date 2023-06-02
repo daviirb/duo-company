@@ -496,6 +496,12 @@ a:hover {
 /********************/
 /*     Features     */
 /********************/
+.card .card-icon{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
 .cards-1 {
 	padding-top: 3rem;
 	padding-bottom: 1.25em;
@@ -773,6 +779,7 @@ a:hover {
 .basic-3 h4 {
 	margin-bottom: 2.375rem;
 	color: #ffffff;
+	text-transform: uppercase;
 }
 
 .basic-3 .btn-outline-lg {
@@ -863,8 +870,8 @@ a:hover {
 /*     Questions     */
 /*********************/
 .accordion-1 {
-	padding-top: 9rem;
-	padding-bottom: 9rem;
+	padding-top: 3rem;
+	padding-bottom: 3rem;
 }
 
 .accordion-1 .h2-heading {
@@ -987,6 +994,7 @@ a:hover {
 .footer .footer-col.third .fa-stack:hover .fa-stack-1x {
 	color: #ffffff;
 }
+
 
 
 /*********************/

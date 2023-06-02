@@ -489,7 +489,11 @@ a:hover {
 }
 
 .header .text-container {
-	margin-bottom: 5rem;
+	margin-bottom: 1rem;
+}
+
+.header .col-lg-6{
+	padding-bottom: 0;
 }
 
 /********************/
@@ -1224,13 +1228,9 @@ a:hover {
 
 	/* Header */
 	.header {
-		padding-top: 12rem;
-		padding-bottom: 12rem;
+		padding-top: 6rem;
+		padding-bottom: 6rem;
 		text-align: left;
-	}
-
-	.header .text-container {
-		margin-bottom: 0;
 	}
 
 	.header .btn-solid-lg {
@@ -1408,6 +1408,10 @@ a:hover {
 @media (min-width: 1200px) {
 	
 	/* General Styles */
+	p{
+		margin-bottom: 7rem;
+	}
+
 	.container {
 		max-width: 1140px;
 	}
@@ -1417,8 +1421,8 @@ a:hover {
 	/* Header */
 	.header {
 		overflow: hidden;
-		padding-top: 18.5rem;
-		padding-bottom: 18rem;
+		padding-top: 8rem;
+		padding-bottom: 8rem;
 	}
 
 	.header .image-container {
